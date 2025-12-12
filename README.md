@@ -14,18 +14,18 @@
 <img src="https://github-readme-stats.vercel.app/api?username=takemurahusky&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=material-palenight" width="40%" align="right" />
 <!-- Blurb -->
 <pre>
-    <a title="Working">💼</a> Backend Developer • Platform Engineer
-    <a title="Skills">💻</a> Full-Stack • DevOps 
-    <a title="Learning">📖</a> Ansible • Docker • Kubernetes • Networking
-    <a title="Freetime">🎮</a> Anime • Code • Games
+    <a title="Working">💼 System & Network Engineer
+    <a title="Skills">💻 Ansible • DevOps • Docker • Kubernetes • Networking
+    <a title="Learning">📖 Stress Management • Mental Health
+    <a title="Freetime">🎮 -/-
 </pre>
 
 ---
 <!-- Random Quote Section -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_frappe" width="60%" />
 
----
-<!-- Contact Section -->
+<!---
+-- Contact Section --
 <span style="font-size:5em;"><i>Take a look at my repositories and let's get in touch!</i></span>
 <br><i>Or just to share your favorite music, games, or anime recommendations :3</i>
 
@@ -41,7 +41,7 @@ function loadContactDetails() {
 }
 ```
 
-</div>
+</div> -->
 
 ---
 
