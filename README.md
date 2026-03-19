@@ -17,7 +17,6 @@
     <a title="Working">💼 System & Network Engineer
     <a title="Skills">💻 Ansible • DevOps • Docker • Kubernetes • Networking
     <a title="Learning">📖 Stress Management • Mental Health
-    <a title="Freetime">🎮 -/-
 </pre>
 
 ---
