@@ -11,11 +11,12 @@
 
 ---
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=takemurahusky&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=material-palenight" width="40%" align="right" />
+<img src="https://github-stats-extended.vercel.app/api?username=takemurahusky&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=material-palenight" width="40%" align="right" />
+
 <!-- Blurb -->
 <pre>
     <a title="Working">💼 System & Network Engineer
-    <a title="Skills">💻 Ansible • DevOps • Docker • Kubernetes • Networking
+    <a title="Skills">💻 Ansible • CI/CD • DevOps • Docker • IaC • K8s • Networking
     <a title="Learning">📖 Stress Management • Mental Health
 </pre>
 
@@ -45,6 +46,7 @@ function loadContactDetails() {
 ---
 
 <!-- Visitor Counter Section (does not work atm) -->
-<img src="https://count.getloli.com/get/@:takemurahusky?theme=rule34" />
+<!-- --> 
+<img src="https://count.getloli.com/get/@:takemurahusky?theme=rule34" /> 
 
 </div>
